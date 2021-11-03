@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @tastywalnut
 - 👀 I love *systems*
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... twitter @NIK_HEAL_S
 
 <!---
